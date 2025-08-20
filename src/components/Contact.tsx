@@ -84,7 +84,8 @@ export const Contact = () => {
                     <Linkedin className="w-5 h-5" />
                   </a>
                   <a
-                    href="https://github.com/javvaji-likhith-chowdary"
+                    // href="https://github.com/javvaji-likhith-chowdary"
+                    href="https://github.com/likhith2272"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="p-3 bg-card-gradient rounded-full border border-border hover:border-primary/50 hover:scale-110 transition-all duration-300 shadow-card-shadow"
